@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\proyectos-distribuida\\Catalogo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1AB97E-11DB-1324-E0D5-F7913D240BB5}|Catalogo.Api\\Catalogo.Api.csproj|c:\\proyectos-distribuida\\catalogo\\catalogo.api\\models\\catalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1AB97E-11DB-1324-E0D5-F7913D240BB5}|Catalogo.Api\\Catalogo.Api.csproj|solutionrelative:catalogo.api\\models\\catalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1AB97E-11DB-1324-E0D5-F7913D240BB5}|Catalogo.Api\\Catalogo.Api.csproj|c:\\proyectos-distribuida\\catalogo\\catalogo.api\\data\\catalogodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1AB97E-11DB-1324-E0D5-F7913D240BB5}|Catalogo.Api\\Catalogo.Api.csproj|solutionrelative:catalogo.api\\data\\catalogodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1AB97E-11DB-1324-E0D5-F7913D240BB5}|Catalogo.Api\\Catalogo.Api.csproj|c:\\proyectos-distribuida\\catalogo\\catalogo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B1AB97E-11DB-1324-E0D5-F7913D240BB5}|Catalogo.Api\\Catalogo.Api.csproj|solutionrelative:catalogo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1AB97E-11DB-1324-E0D5-F7913D240BB5}|Catalogo.Api\\Catalogo.Api.csproj|c:\\proyectos-distribuida\\catalogo\\catalogo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1AB97E-11DB-1324-E0D5-F7913D240BB5}|Catalogo.Api\\Catalogo.Api.csproj|solutionrelative:catalogo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1AB97E-11DB-1324-E0D5-F7913D240BB5}|Catalogo.Api\\Catalogo.Api.csproj|c:\\proyectos-distribuida\\catalogo\\catalogo.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B1AB97E-11DB-1324-E0D5-F7913D240BB5}|Catalogo.Api\\Catalogo.Api.csproj|solutionrelative:catalogo.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1AB97E-11DB-1324-E0D5-F7913D240BB5}|Catalogo.Api\\Catalogo.Api.csproj|c:\\proyectos-distribuida\\catalogo\\catalogo.api\\controllers\\catalogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1AB97E-11DB-1324-E0D5-F7913D240BB5}|Catalogo.Api\\Catalogo.Api.csproj|solutionrelative:catalogo.api\\controllers\\catalogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 256,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CatalogoController.cs",
+              "DocumentMoniker": "C:\\proyectos-distribuida\\Catalogo\\Catalogo.Api\\Controllers\\CatalogoController.cs",
+              "RelativeDocumentMoniker": "Catalogo.Api\\Controllers\\CatalogoController.cs",
+              "ToolTip": "C:\\proyectos-distribuida\\Catalogo\\Catalogo.Api\\Controllers\\CatalogoController.cs",
+              "RelativeToolTip": "Catalogo.Api\\Controllers\\CatalogoController.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAAQwN4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T16:48:18.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\proyectos-distribuida\\Catalogo\\Catalogo.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Catalogo.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\proyectos-distribuida\\Catalogo\\Catalogo.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Catalogo.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-05T16:43:37.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\proyectos-distribuida\\Catalogo\\Catalogo.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Catalogo.Api\\Program.cs",
+              "ToolTip": "C:\\proyectos-distribuida\\Catalogo\\Catalogo.Api\\Program.cs",
+              "RelativeToolTip": "Catalogo.Api\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T16:37:02.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\proyectos-distribuida\\Catalogo\\Catalogo.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Catalogo.Api\\appsettings.json",
+              "ToolTip": "C:\\proyectos-distribuida\\Catalogo\\Catalogo.Api\\appsettings.json",
+              "RelativeToolTip": "Catalogo.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-05T16:34:38.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CatalogoDbContext.cs",
+              "DocumentMoniker": "C:\\proyectos-distribuida\\Catalogo\\Catalogo.Api\\Data\\CatalogoDbContext.cs",
+              "RelativeDocumentMoniker": "Catalogo.Api\\Data\\CatalogoDbContext.cs",
+              "ToolTip": "C:\\proyectos-distribuida\\Catalogo\\Catalogo.Api\\Data\\CatalogoDbContext.cs",
+              "RelativeToolTip": "Catalogo.Api\\Data\\CatalogoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T16:31:35.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Catalogo.cs",
+              "DocumentMoniker": "C:\\proyectos-distribuida\\Catalogo\\Catalogo.Api\\Models\\Catalogo.cs",
+              "RelativeDocumentMoniker": "Catalogo.Api\\Models\\Catalogo.cs",
+              "ToolTip": "C:\\proyectos-distribuida\\Catalogo\\Catalogo.Api\\Models\\Catalogo.cs",
+              "RelativeToolTip": "Catalogo.Api\\Models\\Catalogo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T16:27:30.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 144,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 180,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

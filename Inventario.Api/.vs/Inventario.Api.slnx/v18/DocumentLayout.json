@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\proyectos-distribuida\\Inventario.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|c:\\proyectos-distribuida\\inventario.api\\inventario.api\\models\\inventarioapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|solutionrelative:inventario.api\\models\\inventarioapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|c:\\proyectos-distribuida\\inventario.api\\inventario.api\\data\\inventariodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|solutionrelative:inventario.api\\data\\inventariodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|c:\\proyectos-distribuida\\inventario.api\\inventario.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|solutionrelative:inventario.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|c:\\proyectos-distribuida\\inventario.api\\inventario.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|solutionrelative:inventario.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|c:\\proyectos-distribuida\\inventario.api\\inventario.api\\controllers\\inventarioapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|solutionrelative:inventario.api\\controllers\\inventarioapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|c:\\proyectos-distribuida\\inventario.api\\inventario.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|solutionrelative:inventario.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 256,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 144,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\proyectos-distribuida\\Inventario.Api\\Inventario.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Inventario.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\proyectos-distribuida\\Inventario.Api\\Inventario.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Inventario.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-06T15:35:34.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventarioApiController.cs",
+              "DocumentMoniker": "C:\\proyectos-distribuida\\Inventario.Api\\Inventario.Api\\Controllers\\InventarioApiController.cs",
+              "RelativeDocumentMoniker": "Inventario.Api\\Controllers\\InventarioApiController.cs",
+              "ToolTip": "C:\\proyectos-distribuida\\Inventario.Api\\Inventario.Api\\Controllers\\InventarioApiController.cs",
+              "RelativeToolTip": "Inventario.Api\\Controllers\\InventarioApiController.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAUwKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T15:34:41.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\proyectos-distribuida\\Inventario.Api\\Inventario.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Inventario.Api\\Program.cs",
+              "ToolTip": "C:\\proyectos-distribuida\\Inventario.Api\\Inventario.Api\\Program.cs",
+              "RelativeToolTip": "Inventario.Api\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T15:33:26.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\proyectos-distribuida\\Inventario.Api\\Inventario.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Inventario.Api\\appsettings.json",
+              "ToolTip": "C:\\proyectos-distribuida\\Inventario.Api\\Inventario.Api\\appsettings.json",
+              "RelativeToolTip": "Inventario.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-06T15:30:14.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventarioDbContext.cs",
+              "DocumentMoniker": "C:\\proyectos-distribuida\\Inventario.Api\\Inventario.Api\\Data\\InventarioDbContext.cs",
+              "RelativeDocumentMoniker": "Inventario.Api\\Data\\InventarioDbContext.cs",
+              "ToolTip": "C:\\proyectos-distribuida\\Inventario.Api\\Inventario.Api\\Data\\InventarioDbContext.cs",
+              "RelativeToolTip": "Inventario.Api\\Data\\InventarioDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wAcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T15:29:20.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InventarioApi.cs",
+              "DocumentMoniker": "C:\\proyectos-distribuida\\Inventario.Api\\Inventario.Api\\Models\\InventarioApi.cs",
+              "RelativeDocumentMoniker": "Inventario.Api\\Models\\InventarioApi.cs",
+              "ToolTip": "C:\\proyectos-distribuida\\Inventario.Api\\Inventario.Api\\Models\\InventarioApi.cs",
+              "RelativeToolTip": "Inventario.Api\\Models\\InventarioApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T15:25:28.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 180,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

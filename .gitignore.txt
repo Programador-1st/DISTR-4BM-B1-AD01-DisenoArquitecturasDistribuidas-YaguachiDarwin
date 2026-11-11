@@ -1,0 +1,9 @@
+# Archivos generados por la compilación
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# Archivos de Visual Studio
+.vs/
+*.user
